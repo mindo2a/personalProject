@@ -1,0 +1,122 @@
+body {
+   padding-top: 70px;
+   padding-bottom: 70px;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+hr {
+	border-color: #424242;
+}
+/* ==== Nav ==== */
+.nav {
+	background-color: #000;
+}
+.navbar-default {
+	color: #fff;
+}
+.navbar-default .navbar-nav li > a{
+    color: #fff;
+}
+.nav li:last-child {
+	margin-right: 25px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	background-color: #424242;
+	color: #fff;
+}
+/* ==== Forma ==== */
+.contact-heading {
+	color: #424242;
+	margin-bottom: 15px;
+}
+.projName {
+	width: 25%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.city-top {
+	width: 20%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.data {
+	width: 18%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.stat-first {
+	font-weight: bold;
+	padding-top: 7px;
+	color: #424242;
+	margin-bottom: 5px;
+}
+.status {
+	margin-top: 0;
+	height: 25px;
+	border-color: #424242;
+}
+.p-style {
+	font-weight: bold;
+	color: #424242;
+	margin: 5px 0;
+}
+.vieta {
+	width: 25%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.about-prj {
+	width: 30%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.plotas {
+	width: 15%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.tipas {
+	margin-top: 0;
+	height: 25px;
+	border-color: #424242;
+}
+.tinklapis, .kontaktai {
+	width: 40%;
+	border: none;
+	border-bottom: 1px solid #424242;
+}
+.text-area {
+	border-color: #424242;
+}
+input[type=submit] {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #000;
+	padding: 10px 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 30px;
+}
+input[type=submit]:hover {
+	color: #fff;
+	background-color: #000;
+}
+.contacts {
+	width: 50%;
+	margin: 0 auto;
+	height: 100%;
+	padding-top: 70px;
+}
+.contacts ul li {
+	list-style: none;
+}
+.icons a {
+	display: inline-block;
+	color: #424242;
+	padding: 5px;
+}
+.icons {
+	text-align: center;
+}

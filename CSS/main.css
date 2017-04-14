@@ -1,0 +1,29 @@
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+#map {
+	height: 100%;
+}
+
+/* ==== NAV ==== */    
+}
+.nav {
+	background-color: #000;
+}
+.navbar-default {
+	background-color: #000;
+	color: #fff;
+}
+.navbar-default .navbar-nav li > a{
+    color: #fff;
+}
+.nav li:last-child {
+	margin-right: 25px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	background-color: #424242;
+	color: #fff;
+}
+

@@ -1,0 +1,78 @@
+/*html,*/ body{
+	height: 100%;
+	background-color: #fff;
+	padding-top: 125px;
+	padding-bottom: 70px;
+}
+
+/* ==== navigation ==== */
+
+.nav {
+	background-color: #000;
+}
+.navbar-default {
+	color: #fff;
+}
+.navbar-default .navbar-nav li > a{
+    color: #fff;
+}
+.nav li:last-child {
+	margin-right: 25px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	background-color: #424242;
+	color: #fff;
+}
+
+/* ==== gallery ==== */
+
+.gallery {
+	overflow: hidden;
+	width: 100%;
+	margin: 0;
+	border-left: 0.5px solid #424242;
+	border-right: 0.5px solid #424242;
+
+}
+.gallery-item {
+	float: left;
+	min-height: 1px;
+	margin-right: 16px;
+	width: 23%;
+	margin: 0 1% 1% 1%;
+}
+.gallery-item {
+	border: 1px solid #777;
+	background-color: #424242;
+	color: #fff;
+}
+.gallery-item a {
+	text-decoration: none;
+	color: #fff;
+}
+.gallery .gallery-item a figure {
+	background-color: #eee;
+	position: relative;
+	padding-bottom: 69.01407%;
+}
+.gallery .gallery-item a figure img {
+	position: absolute;
+}
+img {
+	height: auto;
+}
+img {
+	max-width: 100%;
+}
+img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
