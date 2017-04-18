@@ -13,7 +13,7 @@ function addGalleryItems () {
     var isEnd = true,
         i = 0;
 
-    while (i < 100) {
+    while (i < 12) {
     	addGalleryItems();
     	i++;
     }             
